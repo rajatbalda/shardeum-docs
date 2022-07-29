@@ -5,7 +5,7 @@ sidebar_position: 5
 
 ## Does the network give any priorities for selecting validator nodes?
 
-You will have network protocols to follow, like the qty of coins to be staked and hardware configs. Once nodes have those few prerequisites as determined by network compliance, the network will NOT prioritize or favor any node. Further note, nodes on the network will be rotated in and out.
+You will have network protocols to follow, like the quantity of coins to be staked and hardware configs. Once nodes have those few prerequisites as determined by network compliance, the network will NOT prioritize or favor any node. Further note, nodes on the network will be rotated in and out.
 
 ## What are the hardware requirements to run a node on Shardeum?
 
